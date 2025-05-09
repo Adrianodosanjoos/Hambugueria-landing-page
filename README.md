@@ -6,8 +6,8 @@ Este é um projeto de layout do Pinterest para uma hamburgueria fictícia chamad
 
 ## 🚀 Acesse o Projeto
 
-- 🔗 Repositório: [github.com/danyeljorge/burger_layout](https://github.com/danyeljorge/burger_layout)  
-- 🌐 Deploy: [burger-layout.vercel.app](https://burger-layout.vercel.app/)
+- 🔗 Repositório: [github.com/danyeljorge/burger_layout](https://github.com/Adrianodosanjoos/Hambugueria-landing-page)  
+- 🌐 Deploy: [burger-layout.vercel.app](https://hamburgerincrivel.netlify.app/)
 
 ---
 
@@ -45,4 +45,4 @@ O projeto é 100% responsivo, adaptando-se perfeitamente a dispositivos móveis,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/danyeljorge/burger_layout.git
+   git clone https://github.com/Adrianodosanjoos/Hambugueria-landing-page
